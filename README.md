@@ -7,11 +7,11 @@
 1. 获得自己的好友性别比例
 ![](https://github.com/baiyyang/MyWeChat/blob/master/picture/gender_proportion.png)
 2. 获得自己好友的省份分布
-![](https://github.com/baiyyang/MyWeChat/picture/province_distribute.png)
+![](https://github.com/baiyyang/MyWeChat/blob/master/picture/province_distribute.png)
 3. 获得自己好友的城市分布
-![](https://github.com/baiyyang/MyWeChat/picture/city_distribute.png)
+![](https://github.com/baiyyang/MyWeChat/blob/master/picture/city_distribute.png)
 4. 获得好友个性签名的词云图
-![](https://github.com/baiyyang/MyWeChat/picture/signature_wordcloud.png)
+![](https://github.com/baiyyang/MyWeChat/blob/master/picture/signature_wordcloud.png)
 
 ## TODO
 多个好友之间的社交网络分布
