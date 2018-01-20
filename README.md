@@ -5,7 +5,7 @@
 
 ## FUNCTION
 1. 获得自己的好友性别比例
-![](https://github.com/baiyyang/MyWeChat/picture/gender_proportion.png)
+![](https://github.com/baiyyang/MyWeChat/blob/master/picture/gender_proportion.png)
 2. 获得自己好友的省份分布
 ![](https://github.com/baiyyang/MyWeChat/picture/province_distribute.png)
 3. 获得自己好友的城市分布
